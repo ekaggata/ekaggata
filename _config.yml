@@ -24,6 +24,8 @@ title: Encounters of a wandering mind
 #twitter_username: ekaggata
 github_username: ekaggata
 
+show_excerpts: true
+
 # Build settings
 markdown: kramdown
 #theme: minima

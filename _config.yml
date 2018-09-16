@@ -23,6 +23,7 @@ title: Encounters of a wandering mind
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ekaggata
 github_username: ekaggata
+tagline: If you immediatley know the candle light is fire then the meal was cooked a long time ago…
 
 show_excerpts: true
 permalink: /:year/:month/:day/:hour/:minute/:second:output_ext

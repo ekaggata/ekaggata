@@ -25,6 +25,7 @@ title: Encounters of a wandering mind
 github_username: ekaggata
 
 show_excerpts: true
+permalink: /:year/:month/:day/:hour/:minute/:second:output_ext
 
 # Build settings
 markdown: kramdown

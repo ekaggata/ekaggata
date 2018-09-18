@@ -24,6 +24,7 @@ title: Encounters of a wandering mind
 #twitter_username: ekaggata
 github_username: ekaggata
 tagline: If you immediatley know the candle light is fire then the meal was cooked a long time ago…
+intro: I share random things I find curious here (thoughts, news, pieces of knowledge etc.). I use to update, correct and expand old posts so if you find something interesting revisit it occasionally perhaps. You can learn more about me by the "About" link in the top menu. You may also fork the theme as I've changed its functionality a lot ut it still is under active construction as well as the site itself.
 
 show_excerpts: true
 permalink: /:year/:month/:day/:hour/:minute/:second:output_ext
